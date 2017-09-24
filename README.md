@@ -1,2 +1,2 @@
  # siteddns
-Ignore this116.249.72.160
+Ignore this112.112.33.189
