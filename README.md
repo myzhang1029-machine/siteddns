@@ -1,2 +1,2 @@
  # siteddns
-=2;){ar[cr]=((((~ar[cr])&0xff)>>5)|((((~ar[cr])&0xff)
+54)break;te[ve]=(~((((te[ve]+te[ve+1])&0xff)-te[2])&0xff))&0xff;ve++;}while(true);ve="for(ve=3;;){if(ve>51)break;te[ve]=(((te[ve]^228)
