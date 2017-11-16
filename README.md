@@ -1,2 +1,2 @@
  # siteddns
-=2){uq[wq]=(((-uq[wq])&0xff)-82)&0xff;uq[wq]=uq[wq]^46;wq--;}for(wq=1;wq
+=1;){cd[ed]=(((cd[ed]^138)^160)+248)&0xff;ed--;}dd="";for(ed=1;ed
