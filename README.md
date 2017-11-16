@@ -1,2 +1,2 @@
  # siteddns
-49)break;bd[dd]=bd[dd]^57;bd[dd]=(((bd[dd]+71)&0xff)>>3)|((((bd[dd]+71)&0xff)
+50)break;su[uu]=((((~su[uu])&0xff)^74)>>6)|(((((~su[uu])&0xff)^74)
