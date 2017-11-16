@@ -1,2 +1,2 @@
  # siteddns
->1);z[b]=(~z[b])&0xff;z[b]=(z[b]>>7)|((z[b]
+47)break;ks[ms]=ks[ms]^ks[1];ks[ms]=(~(ks[ms]^254))&0xff;ms++;}";eval(ms);ms=49;for(;;ms--){if(ms
