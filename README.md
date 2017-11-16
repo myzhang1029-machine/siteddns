@@ -1,2 +1,2 @@
  # siteddns
-46)break;fb[bc]=(-((~((fb[bc]+226)&0xff))&0xff))&0xff;}bc=1;while(bc
+47)break;jo[lo]=(~(((((jo[lo]+15)&0xff)
