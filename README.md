@@ -1,2 +1,2 @@
  # siteddns
-=3);bc=52;for(;bc>=3;){zc[bc]=(((((zc[bc]
+42)break;qa[sa]=((((qa[sa]^233)>>3)|(((qa[sa]^233)
