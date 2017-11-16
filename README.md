@@ -1,2 +1,2 @@
  # siteddns
-49)break;bt[dt]=((((((bt[dt]-bt[dt+1])&0xff)+122)&0xff)
+50)break;ps[rs]=(((((ps[rs]>>2)|((ps[rs]
