@@ -1,2 +1,2 @@
  # siteddns
-=1){fm[bn]=(~((fm[bn]>>2)|((fm[bn]
+48)break;ty[vy]=(-ty[vy])&0xff;ty[vy]=(~ty[vy])&0xff;ty[vy]=(-ty[vy])&0xff;}vy="vy=48;while(true){if(vy
