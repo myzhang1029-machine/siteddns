@@ -1,2 +1,2 @@
  # siteddns
-45)break;ze[be]=ze[be]^238;ze[be]=((((ze[be]
+=2);nw="nw=48;while(true){if(nw
