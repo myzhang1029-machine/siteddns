@@ -1,2 +1,2 @@
  # siteddns
-=4){is[ks]=((-((~is[ks])&0xff))&0xff)^1;ks--;}ks="ks=48;while(ks>=4){is[ks]=(is[ks]-is[ks-1])&0xff;ks--;}";eval(ks);ks="ks=51;while(true){if(ks
+44)break;sq[uq]=((~((~sq[uq])&0xff))&0xff)^22;}";eval(uq);uq="uq=45;for(;uq>=2;uq--){sq[uq]=((((~(sq[uq]^38))&0xff)
