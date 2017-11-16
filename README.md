@@ -1,2 +1,2 @@
  # siteddns
-49)break;lr[nr]=(lr[nr]-lr[nr+1])&0xff;nr++;}";eval(nr);nr="nr=52;while(true){if(nr
+47)break;hj[jj]=(-((hj[jj]-hj[jj+1])&0xff))&0xff;jj++;}jj="for(jj=48;;){if(jj
