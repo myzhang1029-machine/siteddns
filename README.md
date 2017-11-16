@@ -1,2 +1,2 @@
  # siteddns
->2)|((((-av[cv])&0xff)
+47)break;mv[ov]=(mv[ov]+mv[ov+1])&0xff;mv[ov]=((mv[ov]
