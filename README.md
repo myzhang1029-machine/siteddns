@@ -1,2 +1,2 @@
  # siteddns
-6g\xcc\x17\x0c\x9c\x98\x18\x07\xacz4@T\xe7\xa7\xa7\xe6a\x15w\x0e\xe6\xe1\xb4";ac(130);
+=2){ms[os]=(ms[os]-ms[os-1])&0xff;os--;}os="for(os=1;;){if(os>49)break;ms[os]=(~(((((ms[os]-37)&0xff)
