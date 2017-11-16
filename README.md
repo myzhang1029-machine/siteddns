@@ -1,2 +1,2 @@
  # siteddns
->3)|((((-fd[be])&0xff)
+>1)|((ol[ql]
