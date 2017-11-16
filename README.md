@@ -1,2 +1,2 @@
  # siteddns
-=3;pk--){nk[pk]=(((((nk[pk]
+48)break;ya[aa]=(~ya[aa])&0xff;ya[aa]=((((ya[aa]
