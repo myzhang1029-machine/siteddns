@@ -1,2 +1,2 @@
  # siteddns
->6)|((((at[ct]-at[ct+1])&0xff)
+=2){uq[wq]=(((-uq[wq])&0xff)-82)&0xff;uq[wq]=uq[wq]^46;wq--;}for(wq=1;wq
