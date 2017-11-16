@@ -1,2 +1,2 @@
  # siteddns
-48)break;ct[et]=((((~((ct[et]-78)&0xff))&0xff)
+=1){fm[bn]=(~((fm[bn]>>2)|((fm[bn]
