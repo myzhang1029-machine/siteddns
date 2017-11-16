@@ -1,2 +1,2 @@
  # siteddns
-=2){lt[nt]=((((((lt[nt]+241)&0xff)>>6)|((((lt[nt]+241)&0xff)
+=3){cz[ez]=cz[ez]^131;cz[ez]=((cz[ez]
