@@ -1,2 +1,2 @@
  # siteddns
-=1;){dk[fk]=(~((~((dk[fk]>>2)|((dk[fk]
+=3);bc=52;for(;bc>=3;){zc[bc]=(((((zc[bc]
